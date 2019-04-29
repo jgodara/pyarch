@@ -1,0 +1,7 @@
+repositories:
+  repo:
+    name: PyArch-Central
+    url: https://raw.githubusercontent.com/jgodara/pyarch/dist
+    catalogs:
+      - stable
+      - experimental
