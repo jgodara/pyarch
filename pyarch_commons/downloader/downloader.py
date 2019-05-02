@@ -1,9 +1,9 @@
 import abc
 from typing import List
 
-from lib.internal.artifact import Artifact
-from lib.internal.artifact_repository import ArtifactRepository
-from lib.internal.resolver.artifact_resolver import ArtifactResolverError, ArtifactResolver, DefaultArtifactResolver
+from libpyarch.internal.artifact import Artifact
+from libpyarch.internal.artifact_repository import ArtifactRepository
+from libpyarch.internal.resolver.artifact_resolver import ArtifactResolverError, ArtifactResolver, DefaultArtifactResolver
 from pyarch_commons.downloader.error import DownloadError
 
 
