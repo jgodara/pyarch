@@ -9,7 +9,6 @@ autopep8 = "*"
 [packages]
 cliff = "*"
 requests = "*"
-pyarch = {editable = true,path = "."}
 
 [requires]
 python_version = "3"
